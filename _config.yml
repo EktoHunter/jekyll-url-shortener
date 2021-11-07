@@ -1,6 +1,6 @@
 title: Yeen.link URL-Shortener
 description: This is a URL Shortener which uses Jekyll and GitHub Pages to function. Use it to more easily share links! This shortener is 100% furry friendly!
-logo: /assets/img/yeenfection.png
+logo: /assets/img/yeenfection.jpg
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
