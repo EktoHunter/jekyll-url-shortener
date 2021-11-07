@@ -2,7 +2,7 @@ title: Yeen.Link
 description: This is a URL Shortener which uses Jekyll and GitHub Pages to function. Use it to more easily share links! 100% Yeen-Powered!  In Memory of Benario/Deserthyena.
 logo: /assets/img/yeenfection.jpg
 show_downloads: false
-google_analytics: G-5Q7LVM3J0P
+google_analytics: 
 theme: jekyll-theme-minimal
 
 permalink: /:slug/
